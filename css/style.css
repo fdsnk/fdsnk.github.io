@@ -1,0 +1,21 @@
+body {
+    background-color: gray;
+    margin: 0%;
+    font-family: serif;
+
+}
+
+h1 {
+    text-align: center;
+    padding-top: 25%;
+    color: #ffffff;
+    /* text-transform: uppercase; */
+
+}
+
+h2 {
+    text-align: center;
+    padding-left: 38%;
+    color: #ffffff;
+
+}
